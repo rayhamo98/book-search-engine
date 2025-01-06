@@ -1,9 +1,9 @@
-# README generator
+# Book Search Engine
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](<(https://opensource.org/licenses/Apache-2.0)>)
 
 ## Description
-
+This project is a custom-built book search engine that allows users to find books, save their favorites to a personal profile, and manage their saved list by removing books when needed. It is developed using the MERN stack, featuring Apollo Server and GraphQL for the backend, and a dynamic frontend built with React.
 
 
 ## Table of contents
@@ -22,11 +22,10 @@ You can download it from my Github repository.
 
 ## usage
 
-- Navigate through the application using the menu.
-- Visit the About Me page to learn more about my background and experiences.
-- Explore the Projects page, where you can click on any project to view detailed information or access the deployed application and GitHub repository.
-- Go to the Contact Me page to interact with the contact form.
-- Check out the Resume page to download my resume.
+- Open your browser and navigate to http://localhost:3001.
+- Create an account or log in.
+- Use the search bar to find books from the Google Books API.
+- Save books to your profile and manage them from your saved books list.
 
 ## video walk though
 
